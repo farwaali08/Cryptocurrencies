@@ -2,6 +2,17 @@
 
 ## OVERVIEW
 
+This projects utilizes unsupervised machine learning to analyze cryptocurrency data, with an ultimate goal of creating a report that includes what cryptocurrencies are on the trading market, and how they can be grouped to create a classification system.
+
+This report is intended to assist an investment bank that is looking to offer a new cryptocurrency investment portfolio to its clients.
+
+The analysis includes:
+
+* Data pre-processing
+* Dimensionality reduction using Principal Component Analysis (PCA)
+* Clustering data using K-Means
+* Visualization
+
 ## TOOLS & RESOURCES
 
 ### DATA
