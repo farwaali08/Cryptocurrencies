@@ -11,6 +11,10 @@
 * Python 3.9.3
 * Jupyter Notebook 6.3.0
 
+### CODE
+
+[crypto_clustering.ipynb](https://github.com/farwaali08/Cryptocurrencies/blob/9c06c7877b9d18a52d626be923024f8d56dc888e/crypto_clustering.ipynb)
+
 ## TABLES & GRAPHS
 
 ### ELBOW CURVE
